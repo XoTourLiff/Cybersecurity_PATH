@@ -2,6 +2,7 @@
 - 👀 I’m interested in Cybersecurity pentester & defender
 - 🌱 I’m currently learning Cybersecurity at EPSI school
 - I like doing CTF using TryHackMe or HackTheBox
+- I'm writing most of the time in French :)
 
 
 <!---

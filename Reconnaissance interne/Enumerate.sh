@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p " Entrez le mot de passe de l'utilisateur actuelle : " PASS
+read -p " Entrez le mot de passe de l'utilisateur actuel : " PASS
 
 echo ""
 echo "Vérification des droits sudo"

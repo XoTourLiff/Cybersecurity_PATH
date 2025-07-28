@@ -28,5 +28,10 @@ ss -tulnp
 sleep 3
 
 echo ""
+echo "Afficher les processus en cours d'execution par root"
+ps aux | grep root
+sleep 3
+
+echo ""
 echo "Terminé"
 sleep 2

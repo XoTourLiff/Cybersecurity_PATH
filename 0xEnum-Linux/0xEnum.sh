@@ -41,10 +41,6 @@ cat /etc/os-release 2>/dev/null
 cat /etc/issue 2>/dev/null
 sleep 3
 
-echo -e "\n--- Utilisateurs avec un shell valide ---"
-getent passwd | grep -Ev '/nologin|/false'
-sleep 3
-
 echo -e "\n--- Groupes système présents ---"
 getent group
 sleep 3

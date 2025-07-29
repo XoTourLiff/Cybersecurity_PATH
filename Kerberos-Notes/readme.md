@@ -20,3 +20,7 @@ Failles :
 - DCSync
 
 - Abuse de msDS-AllowedToActOnBehalfOfOtherIdentity
+
+
+<img width="500" height="500" alt="Kerberos Token Translator - Logo" src="https://github.com/user-attachments/assets/ac2696be-a5d0-445a-bd8b-a5bdce781798" />
+

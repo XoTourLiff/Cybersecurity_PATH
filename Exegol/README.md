@@ -1,5 +1,5 @@
 **Exegol** est une distribution multiplateforme dédiée à l’**offensif en cybersécurité**, optimisée pour le red teaming, le pentest, et l’automatisation.
-Elle fournit un environnement Docker préconfiguré avec de nombreux outils (BloodHound, CrackMapExec, etc.), pour centraliser et faciliter les attaques en post-exploitation.
+Elle fournit un environnement Docker préconfiguré avec de nombreux outils (BloodHound, NetExec, etc.), pour centraliser et faciliter les attaques en post-exploitation.
 
 
 

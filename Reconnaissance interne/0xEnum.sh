@@ -112,10 +112,6 @@ echo -e "\n--- Adresse IP locale ---"
 hostname -I | cut -d" " -f1
 sleep 3
 
-echo -e "\n--- Outils installés (présence dans le PATH) ---"
-which nc nmap python python3 perl gcc curl wget 2>/dev/null
-sleep 3
-
 echo -e "\n--- Présence de conteneur Docker/LXC ? ---"
 [ -f "/.dockerenv" ] && echo "Docker détecté"
 grep -qa container=lxc /proc/1/environ && echo "LXC détecté"

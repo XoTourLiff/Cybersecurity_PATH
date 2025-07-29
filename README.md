@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @RomainCharpeil
-- 👀 I’m interested in Cybersecurity pentester & defender
-- 🌱 I’m currently learning Cybersecurity at EPSI school
-- I like doing CTF using TryHackMe or HackTheBox
-- I'm writing most of the time in French :)
+____  ___       ___________                   .____    .__  _____  _____ 
+\   \/  /____   \__    ___/___  __ _________  |    |   |__|/ ____\/ ____\
+ \     //  _ \    |    | /  _ \|  |  \_  __ \ |    |   |  \   __\\   __\ 
+ /     (  <_> )   |    |(  <_> )  |  /|  | \/ |    |___|  ||  |   |  |   
+/___/\  \____/____|____| \____/|____/ |__|____|_______ \__||__|   |__|   
+      \_/   /_____/                     /_____/       \/                 
 
 
-<!---
-RomainCharpeil/RomainCharpeil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub !
+
+I'm a cybersecurity student from France. I enjoy doing challenges on HackThebox or TryHackMe, I am interested in pentesting and defense.
+
+Feel free to give me a star :)
+
+
+
+

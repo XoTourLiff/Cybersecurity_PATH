@@ -6,6 +6,11 @@ _______          ___________
  \_____  /__/\_ \/_______  /___|  /____/|__|_|  /
        \/      \/        \/     \/            \/ 
 
+sleep1
+echo "========== [ STARTING ENUMERATION 🔍 ] =========="
+echo ""
+sleep 2
+
 exec > >(tee "enum_$(hostname)_$(date +%F_%H-%M).log") 2>&1
 
 read -p " Entrez le mot de passe de l'utilisateur actuel : " PASS

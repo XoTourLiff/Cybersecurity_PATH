@@ -3,7 +3,7 @@
 
 Welcome to my GitHub !
 
-I'm a cybersecurity student from France. I enjoy doing challenges on HackThebox or TryHackMe, I am interested in pentesting and defense.
+I'm a cybersecurity student from France. I enjoy doing challenges on HackThebox or TryHackMe, I am interested in pentesting and defense. I'm writing most of time in French !
 
 Feel free to give me a star :)
 
